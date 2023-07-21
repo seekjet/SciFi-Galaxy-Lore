@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "ad8d643bd92e1b82",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d345466e9748861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217d504636faba0b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Races/Pictures/xeno5.jpg"
+              }
+            }
+          },
+          {
+            "id": "5cdc56af14bb9679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Vk'dxud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3cb36921f04a980",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a8eee8966243b67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5025ab3cf10eebcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "490487a51d092e83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc4fc65432a8a50a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7deaa2685ef68b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd72b40cad86818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1410c43aed58c392",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Races/Vk'dxud.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8826dd5f1cb12cd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Races/Vk'dxud.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d51d913e65f9ffc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8eb327ce5b7d095c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Races/Vk'dxud.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5cdc56af14bb9679",
+  "lastOpenFiles": [
+    "Races/Race Index.md",
+    "Races/Vk'dxud.md",
+    "Races/Trappian.md",
+    "Races/Pictures/xeno5.jpg",
+    "Races/Pictures/xeno7.jpg",
+    "Races/Lumen.md",
+    "Races/Caphrian.md",
+    "Races/Pictures/Caphrian2.jpg",
+    "Races/Pictures/Caphrian3.jpg",
+    "Races/Pictures/Caphrian.jpg",
+    "Races/Pictures/xeno6.jpg",
+    "Races/Pictures/xeno11.jpg",
+    "Races/Pictures/xeno19.jpg",
+    "Races/Pictures/xeno19.jpg.crdownload",
+    "Races/Pictures/xeno18.jpg",
+    "Races/Pictures/xeno18.jpg.crdownload",
+    "Races/Pictures/xeno17.jpg",
+    "Races/Pictures/xeno17.jpg.crdownload",
+    "Races/Pictures/xeno16.jpg.crdownload",
+    "Races/Pictures/xeno15.jpg.crdownload",
+    "Races/Pictures/xeno14.jpg.crdownload",
+    "Races/Pictures/xeno13.jpg.crdownload",
+    "Races/Pictures/xeno12.png.crdownload",
+    "Races/Pictures/xeno11.jpg.crdownload",
+    "Races/Pictures/xeno10.jpg.crdownload",
+    "Races/Mutant.md",
+    "Races/Martian.md",
+    "Places/TRAPPIST System/TRAPPIST-1.md",
+    "Places/Phoenicia System/Hadad.md",
+    "Places/Phoenicia System/Rejos Terminal.md",
+    "Places/Phoenicia System/Phoenicia.md",
+    "Major Galactic Events/Hadrian's Exodus.md",
+    "Characters/NPCs/Fran Vale.md",
+    "Characters/NPCs/Nick Vale.md",
+    "Characters/NPCs/Carlos Vale.md",
+    "First File.md",
+    "Npcs/nested folder/char.md"
+  ]
+}
