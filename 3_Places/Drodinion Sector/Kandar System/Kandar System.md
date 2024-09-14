@@ -1,0 +1,1 @@
+The Kandar system is a system tightly controlled by the banking sector corporations. It is comprised of 3 populated planets, [[Zhurong]], [[Houtu]], and [[Fei Lian]]. 

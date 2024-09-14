@@ -1,0 +1,5 @@
+![[1_Characters/NPCs/_Pictures_Assigned/Jax.jpg|300]]
+- **Role:** Graffiti artist and political dissident.
+- **Appearance:** Jax is a wiry figure with multicolored hair and a constantly shifting outfit adorned with spray paint cans, stencils, and small, makeshift bombs. His face is often half-covered with a respirator mask, and his clothing is covered in dried paint and chemical burns.
+- **Personality:** An idealist with a burning hatred for the megacorps, Jax is obsessed with covering every surface of the station with anti-authoritarian messages. He’s the one responsible for much of the graffiti at _The Black Hole Riot._ He speaks in cryptic, chaotic riddles, rarely staying still for long. Though unpredictable, Jax is a master at evading station security and spreading his message of resistance.
+- **Notable Quirk:** Jax refers to his graffiti as "prophetic art," and believes he's leaving behind symbols that will ignite a revolution.

@@ -1,0 +1,2 @@
+The Illumination is a cruiser class ship outfitted for colony aid and security support for fringe territories.
+Owned and operated by [[Redline Security Specialists]], where there is a crisis, this ship will arrive to assist, and promote their future services.

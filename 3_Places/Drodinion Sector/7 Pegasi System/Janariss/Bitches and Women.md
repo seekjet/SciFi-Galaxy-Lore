@@ -1,0 +1,1 @@
+Bar in [[Plaza 8]], owned by [[Bai Seng]]

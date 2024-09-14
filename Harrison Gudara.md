@@ -1,0 +1,5 @@
+[[Cult of the Abyssal Core]]
+
+Harrison Gudara is a man driven by a mix of fear, greed, and delusion. Originally a respected foreman, his descent into madness began when he first heard the strange signals emanating from deep within the planet. As the signals grew stronger, so did his obsession. He started to see himself as a prophet chosen by the Abyssal Core to lead his people to a new era. Gudara is ruthless in maintaining control over his followers, using fear, manipulation, and the promise of power to keep them loyal.
+
+He is a master manipulator, able to twist reality to fit his narrative, and he uses the isolation of the planet to his advantage, ensuring that his followers have no choice but to rely on him. Gudara's ultimate goal is to reach the center of the planet, where he believes he will finally commune directly with the Abyssal Core and ascend to godhood.

@@ -1,0 +1,1 @@
+Dead wife of [[Callum Galgreaves]], her name means "Brings Freedom"

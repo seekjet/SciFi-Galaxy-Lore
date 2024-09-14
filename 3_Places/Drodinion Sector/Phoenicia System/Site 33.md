@@ -1,0 +1,1 @@
+The remote medical testing facility where [[Dr. Meseret Bekele (Sam)]] was supervising medical experiments. The place of the [[Magna Serum Incident]]

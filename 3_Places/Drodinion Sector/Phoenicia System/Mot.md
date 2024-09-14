@@ -1,0 +1,1 @@
+Moon of the Gas giant Baal, resource collection site for the Baal asteroid miners, home of Odyssey Genetics' [[Site 33]].

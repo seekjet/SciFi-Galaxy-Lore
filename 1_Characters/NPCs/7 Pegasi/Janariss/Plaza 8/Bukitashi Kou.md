@@ -1,0 +1,1 @@
+![[bukitashi kou.png|300]]

@@ -1,0 +1,1 @@
+![[Sibyl Smith.jpg|300]]

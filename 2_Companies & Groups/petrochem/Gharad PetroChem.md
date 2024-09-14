@@ -1,0 +1,1 @@
+Gharad PetroChem is another large player on Janriss, and wants a larger controntrol over Rejos Termninal, and wants their own private security firm in control of the facility. This can be be pushed by staging terrorist attacks, and claiming that contispex's security firm is inadequate protection for the vital link to the surface.

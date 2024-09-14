@@ -1,0 +1,4 @@
+IAU new 2015  
+A [neutron star](https://en.wikipedia.org/wiki/Neutron_star "Neutron star") and [pulsar](https://en.wikipedia.org/wiki/Pulsar "Pulsar") with [planets](https://en.wikipedia.org/wiki/Planet "Planet"). A [lich](https://en.wikipedia.org/wiki/Lich "Lich") is a [fictional](https://en.wikipedia.org/wiki/Fantasy_fiction "Fantasy fiction") [undead](https://en.wikipedia.org/wiki/Undead "Undead") creature known for controlling other undead creatures with [magic](https://en.wikipedia.org/wiki/Magic_(paranormal) "Magic (paranormal)").[[26]](https://en.wikipedia.org/wiki/List_of_proper_names_of_stars#cite_note-NEWnames-29)
+
+Its planet [[Dxt'wn'slb'nk]] is where [[vt'ch'zug]] has his family making radioactive isotopes

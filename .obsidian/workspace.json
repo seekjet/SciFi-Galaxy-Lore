@@ -4,33 +4,98 @@
     "type": "split",
     "children": [
       {
-        "id": "0d345466e9748861",
+        "id": "e5579500f5d045f4",
         "type": "tabs",
         "children": [
           {
-            "id": "217d504636faba0b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Races/Pictures/xeno5.jpg"
-              }
-            }
-          },
-          {
-            "id": "5cdc56af14bb9679",
+            "id": "c040449c18e9c834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Races/Vk'dxud.md",
+                "file": "1_Characters/NPCs/Kandar/Houtu/Takonai City/Choi Kwan Yeon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f963c9bd5aaf430e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Korey 'Shiv' Tavihan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd41fdf8403cbbf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Sibyl Smith.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1a15b15b0a3218ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a753ca8583c1e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4_WorldBuilding/Example Aspect List.pdf"
+              }
+            }
+          },
+          {
+            "id": "b809e5e65b6f00a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cult of the Abyssal Core.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "697eb105816bc240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xel'thar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9b7e0b2e7f314c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Angélique Colbert.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "siby",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "7deaa2685ef68b53",
@@ -96,8 +161,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Vk'dxud.md",
-                "collapseAll": false,
+                "file": "1_Characters/NPCs/Kandar/Houtu/Takonai City/Choi Kwan Yeon.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Vk'dxud.md",
+                "file": "1_Characters/NPCs/Kandar/Houtu/Takonai City/Choi Kwan Yeon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Races/Vk'dxud.md"
+                "file": "1_Characters/NPCs/Kandar/Houtu/Takonai City/Choi Kwan Yeon.md"
               }
             }
           }
@@ -144,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,44 +221,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cdc56af14bb9679",
+  "active": "c040449c18e9c834",
   "lastOpenFiles": [
-    "Races/Race Index.md",
-    "Races/Vk'dxud.md",
-    "Races/Trappian.md",
-    "Races/Pictures/xeno5.jpg",
-    "Races/Pictures/xeno7.jpg",
-    "Races/Lumen.md",
-    "Races/Caphrian.md",
-    "Races/Pictures/Caphrian2.jpg",
-    "Races/Pictures/Caphrian3.jpg",
-    "Races/Pictures/Caphrian.jpg",
-    "Races/Pictures/xeno6.jpg",
-    "Races/Pictures/xeno11.jpg",
-    "Races/Pictures/xeno19.jpg",
-    "Races/Pictures/xeno19.jpg.crdownload",
-    "Races/Pictures/xeno18.jpg",
-    "Races/Pictures/xeno18.jpg.crdownload",
-    "Races/Pictures/xeno17.jpg",
-    "Races/Pictures/xeno17.jpg.crdownload",
-    "Races/Pictures/xeno16.jpg.crdownload",
-    "Races/Pictures/xeno15.jpg.crdownload",
-    "Races/Pictures/xeno14.jpg.crdownload",
-    "Races/Pictures/xeno13.jpg.crdownload",
-    "Races/Pictures/xeno12.png.crdownload",
-    "Races/Pictures/xeno11.jpg.crdownload",
-    "Races/Pictures/xeno10.jpg.crdownload",
-    "Races/Mutant.md",
-    "Races/Martian.md",
-    "Places/TRAPPIST System/TRAPPIST-1.md",
-    "Places/Phoenicia System/Hadad.md",
-    "Places/Phoenicia System/Rejos Terminal.md",
-    "Places/Phoenicia System/Phoenicia.md",
-    "Major Galactic Events/Hadrian's Exodus.md",
-    "Characters/NPCs/Fran Vale.md",
-    "Characters/NPCs/Nick Vale.md",
-    "Characters/NPCs/Carlos Vale.md",
-    "First File.md",
-    "Npcs/nested folder/char.md"
+    "6_Physical_Materials/Fate Core Character Sheet.pdf",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Korey 'Shiv' Tavihan.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Captain Rodolfo Calderone.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Sibyl Smith.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Haskell Mclear.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Vicky Marr.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Orson Waltz.md",
+    "1_Characters/NPCs/Kandar/Houtu/Takonai City/Choi Kwan Yeon.md",
+    "5_RTG/Reputation.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Ivan 'Mags' Voronoff.md",
+    "5_RTG/Session Planning & Notes/Chapter 2/Job5/S18 - A new Chapter.md",
+    "5_RTG/Skill List.md",
+    "5_RTG/Session Planning & Notes/Chapter 2/Job5/S19 - Homecoming.md",
+    "Black Hole Riot.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/RLS Illumination/Mai - Budapest.md",
+    "1_Characters/NPCs/_Pictures_Assigned/Rodolfo Calderone.jpg",
+    "1_Characters/NPCs/Kandar/Houtu/Takonai City/Geerten Jovaska.md",
+    "4_WorldBuilding/Example Aspect List.pdf",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Jax 'Vandal' Polmar.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Leslie Curtis.md",
+    "6_Physical_Materials/The Black Hole Riot/BHR logo larger.png",
+    "6_Physical_Materials/Rodolfo_Jax_Choi.xcf",
+    "6_Physical_Materials/token_set_black_hole_riot.png",
+    "6_Physical_Materials/token_set_black_hole_riot.xcf",
+    "1_Characters/NPCs/_Pictures_Assigned/Jax.jpg",
+    "1_Characters/NPCs/_Pictures_Assigned/Jax.jpg.crdownload",
+    "1_Characters/NPCs/_Pictures_Unassigned/jax.jpg",
+    "1_Characters/NPCs/_Pictures_Unassigned/jax.jpg.crdownload",
+    "1_Characters/NPCs/_Pictures_Assigned/Radolfo Calderone.jpg",
+    "1_Characters/NPCs/_Pictures_Assigned/Radolfo .jpg",
+    "1_Characters/NPCs/_Pictures_Assigned/Radolfo.jpg",
+    "1_Characters/NPCs/_Pictures_Assigned/Civvies and Guards.jpg",
+    "6_Physical_Materials/shiv_mags_felicity_aiden.xcf",
+    "1_Characters/NPCs/_Pictures_Unassigned/redcop.jpg",
+    "1_Characters/NPCs/_Pictures_Unassigned/redcop.xcf",
+    "1_Characters/NPCs/_Pictures_Unassigned/70ac2ce0da528744f266d290b4633e08.jpg.crdownload",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Nick Vale.md",
+    "1_Characters/NPCs/_Pictures_Assigned/Mags.png.crdownload",
+    "1_Characters/NPCs/_Pictures_Assigned/Shiv2.xcf",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Carlos Vale.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/Rejos Terminal/Angélique Colbert.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/RLS Illumination/Ruth - Manila.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/RLS Illumination/Kirin - Seoul.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/RLS Illumination/Jess - Sydney.md",
+    "1_Characters/NPCs/7 Pegasi/Janariss/RLS Illumination/Baraka - Beruit.md",
+    "1_Characters/NPCs/Kandar/Houtu/Mr. Li.md"
   ]
 }

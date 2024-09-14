@@ -1,2 +1,0 @@
-**(/MAA-shn/)**
-*Homo Sapiens*

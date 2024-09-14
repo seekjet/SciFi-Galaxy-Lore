@@ -1,0 +1,3 @@
+The Oasis is a well-protected enclave within the [[Stavoff]] region of [[Houtu]], owned and fortified by Mad Muffin Inc. It features advanced water purification systems, green spaces, and shelters—an environment starkly different from the surrounding harsh wasteland. Its main feature is the vast artificial lake it uses to contain all of the pumped groundwater used by [[Muffin Mad Inc]].
+
+This is the location of the personal estate of [[The Muffin Man]].

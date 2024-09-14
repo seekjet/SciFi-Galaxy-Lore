@@ -1,0 +1,6 @@
+- Careful +1
+- Clever +0
+- Flashy +3
+- Forceful +2
+- Quick +2
+- Sneaky +1

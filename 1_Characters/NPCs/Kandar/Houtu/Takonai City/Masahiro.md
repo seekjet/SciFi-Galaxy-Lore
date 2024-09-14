@@ -1,0 +1,1 @@
+![[Masahiro.jpg|300]]

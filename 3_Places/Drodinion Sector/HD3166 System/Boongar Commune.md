@@ -1,0 +1,3 @@
+A small-middling sized trappian colony of a few thousand individuals in the [[HD3166]] system, on [[HD3166 II]]. Services large vessels on the main shipping lanes for a low price. Out of the way of larger populations. Think of it like a regional highway service station and surrounding village.
+
+Dont be mistaken by its name, this place only was a true commune in its first generation of existence, the two other generations following that saw the income of franchises and corpos looking to make a buck. This place is just as capitalistic as anywhere else now.

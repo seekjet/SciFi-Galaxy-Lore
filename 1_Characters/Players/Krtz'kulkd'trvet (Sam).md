@@ -1,0 +1,1 @@
+coworker of [[Masig Tern (Julian)]]. "Rescued" by a band of trappians on their diaspora. Now stuck in the [[Boongar Commune]] in the [[HD3166]] system.

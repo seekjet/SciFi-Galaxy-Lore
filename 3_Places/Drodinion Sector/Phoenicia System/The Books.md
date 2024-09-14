@@ -1,0 +1,2 @@
+Also known as Site 3 for the company, the books is a research facility of where [[Kirren Warrick]] bases his teams.
+A luxurious and prestigious working site, this is the birthplace of so many groundbreaking genetic technologies.
